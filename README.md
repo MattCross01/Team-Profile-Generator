@@ -40,6 +40,6 @@ Here is a video demonstrating how to test the application. [Test]("")
 ## Questions
 If you have any questions, here is a link to my github as well as my email address. Feel free to contanct me!
 
-[Github](github.com/MattCross01 "My Github")
+[Github](github.com/MattCross01 "My Github") - MattCross01
 
-[Email](mountaindew2141@outlook.com "My Email")
+[Email](mountaindew2141@outlook.com "My Email") - mountaindew2141@outlook.com
