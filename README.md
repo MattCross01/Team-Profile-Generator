@@ -3,6 +3,15 @@
 [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
 ## Description
 This is a node app that can create an html file of your team members from your input to the prompts.
+
+- For the team manager the prompts are asking the user to input for the manager's name, employee ID number, email address and the office number.
+
+- For team engineers the prompts are asking the user to input the engineer's name, employee ID number, email address, and the Github username.
+
+- For team interns, the prompts are asking the user to input the intern's name, employee ID number, email address, and the intern's school name.
+
+- The user will input information for one manager and as many engineers and interns as needed.
+
 ## Table of Contents
 [Installation](#installation)
 
