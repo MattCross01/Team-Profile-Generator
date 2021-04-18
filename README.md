@@ -21,9 +21,15 @@ To install, download the repo and run 'node app.js' in the command line.
 ## Usage
 Once you run 'node app.js', you will be asked a series of questions about your team. After you answer all the questions an HTML file will be created from your answers. Here is a video demonstrating how to use the application! 
 
+Screenshot of node questions:
+![Screenshot](https://i.ibb.co/zrGJx3Q/questions2.png)
+
+
+Screenshot of end result:
 ![Screenshot](https://i.ibb.co/BCd4nyG/imgd.png)
 
 ## Credits
+MattCross01
 
 ## License
 Licensed under Unlicense.
