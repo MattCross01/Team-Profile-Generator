@@ -20,7 +20,9 @@ This is a node app that can create an html file of your team members from your i
 To install, download the repo and run 'node app.js' in the command line.
 ## Usage
 Once you run 'node app.js', you will be asked a series of questions about your team. After you answer all the questions an HTML file will be created from your answers. Here is a video demonstrating how to use the application! 
-[!Screenshot](https://i.ibb.co/BCd4nyG/imgd.png)
+
+![Screenshot](https://i.ibb.co/BCd4nyG/imgd.png)
+
 ## Credits
 
 ## License
