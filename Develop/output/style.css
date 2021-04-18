@@ -1,24 +1,27 @@
 body {
     background-image: url('background.jpg');
     background-size: auto;
-    background-color: #7a99c4;
+    background-color: #ffffff;
     color: #4c4c4f;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 .team-heading {
-    color: #0c3a79;
-    background-color: rgba(99, 163, 252, 0.85);
+    color: #ffffff;
+    background-color: rgba(236, 0, 0, 0.85);
+
 }
 
 .employee-card {
     margin-right: 2rem;
     min-width: 20rem;
-    background-color: rgba(210, 210, 211, 0.95);
+    background-color: rgba(0, 119, 255, 0.95);
+    border-radius: 25px;
+    box-shadow: black 2px 2px;
 }
 
 h2 {
-    color: #0c3a79;
+    color: #ffffff;
     padding-top: 15px;
 }
 
