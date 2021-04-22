@@ -45,7 +45,7 @@ MattCross01
 ## License
 Licensed under Unlicense.
 ## Tests
-Here is a video demonstrating how to use the application: https://drive.google.com/file/d/1hPC1vL-7xu0BIz3bIiuGGK6kPUjr_65A/view?usp=sharing
+Here is a video demonstrating how to use the application: https://www.youtube.com/watch?v=CADWiY6alGs
 ## Questions
 If you have any questions, here is a link to my github as well as my email address. Feel free to contanct me!
 
